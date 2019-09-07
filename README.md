@@ -1,4 +1,4 @@
-# DSGA1008_SemiSupervisedLearning (Course by Prof Yann LeCun)
+# Semi-Supervised Image Classification Competition (DS-GA 1008 - Deep Learning Course by Prof Yann LeCun)
 Semi-supervised learning competition for course Deep Learning DS-GA 1008 (Spring 2019) at New York University. This course was taught by Prof. Yann LeCun. Below is a post by him about this competition.
 https://www.facebook.com/yann.lecun/posts/10155962251157143
 
